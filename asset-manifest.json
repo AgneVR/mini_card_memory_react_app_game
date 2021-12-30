@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mini_card_memory_react_app_game/static/css/main.b06f4e68.css",
+    "main.js": "/mini_card_memory_react_app_game/static/js/main.17db3539.js",
+    "static/js/787.c2e8ffc0.chunk.js": "/mini_card_memory_react_app_game/static/js/787.c2e8ffc0.chunk.js",
+    "static/media/8cEbeEMLi.png": "/mini_card_memory_react_app_game/static/media/8cEbeEMLi.0e489c1c6c1c0953bf1c.png",
+    "index.html": "/mini_card_memory_react_app_game/index.html",
+    "main.b06f4e68.css.map": "/mini_card_memory_react_app_game/static/css/main.b06f4e68.css.map",
+    "main.17db3539.js.map": "/mini_card_memory_react_app_game/static/js/main.17db3539.js.map",
+    "787.c2e8ffc0.chunk.js.map": "/mini_card_memory_react_app_game/static/js/787.c2e8ffc0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b06f4e68.css",
+    "static/js/main.17db3539.js"
+  ]
+}
